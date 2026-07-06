@@ -6,7 +6,6 @@ import {
   Activity,
   Cpu,
   Play,
-  Radio,
   ShieldCheck,
   Terminal,
   X,

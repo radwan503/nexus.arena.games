@@ -12,7 +12,6 @@ import {
   Palette,
   Radio,
   ShieldCheck,
-  Trophy,
   Users,
 } from "lucide-react";
 import { useState } from "react";

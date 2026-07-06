@@ -50,7 +50,7 @@ function BrandItem({
   index: number;
 }) {
   return (
-    <div className="flex shrink-0 items-center">
+    <div className="flex shrink-0 items-center" key={index}>
       <motion.span
         whileHover={{ y: -4, scale: 1.04 }}
         transition={{ duration: 0.3, ease: smooth }}
